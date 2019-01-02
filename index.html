@@ -1,0 +1,82 @@
+ <html>
+ <head>
+ <meta charset='utf-8' />
+  <title>Target for Today</title>
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+  <script src='https://api.mapbox.com/mapbox-gl-js/v0.52.0/mapbox-gl.js'></script>
+  <link href='https://api.mapbox.com/mapbox-gl-js/v0.52.0/mapbox-gl.css' rel='stylesheet' />
+  </head>
+  <body>
+  <div id='map'></div>
+<div id='console'>
+  <h1>Target for Today </h1>
+  <p>Data: <a href='https://www.mapbox.com/studio/tilesets/jvliddle.cjqfgrvma2z3t2qmjqn3kpnil-2b9jj/'>8th Air Force Bases </a> and <a href='https://www.mapbox.com/studio/tilesets/jvliddle.cjqfgs8f959q32ppa7fcgpuxp-3o2fw/'> Targets </a> in Europe, August 1942-September 1945 </p>
+</div>
+<style>
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+h1 {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+h2 {
+  font-size: 14px;
+  line-height: 20px;
+  margin-bottom: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #2dc4b2;
+}
+
+#console {
+  position: absolute;
+  width: 240px;
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: white;
+}</style>
+</body>
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoianZsaWRkbGUiLCJhIjoiY2psMnk2bnBvMHAweDNwbjNkN28xOXE1bSJ9.Y7lbmk7Otz5nINQMmj5qKA';
+
+var map = new mapboxgl.Map({
+  container: 'map', // container element id
+  style: 'mapbox://styles/jvliddle/cjqfgqeq28zbi2rp3pwiesri7',
+  center:[1.7646, 50.7681], // initial map center in [lon, lat]
+  zoom: 4.6
+});
+map.on('click', function(e) {
+  var features = map.queryRenderedFeatures(e.point, {
+    layers: ['First Bomber Division'] // replace this with the name of the layer
+  });
+
+  if (!features.length) {
+    return;
+  }
+
+  var feature = features[0];
+
+  var popup = new mapboxgl.Popup({ offset: [0, -15] })
+    .setLngLat(feature.geometry.coordinates)
+    .setHTML('<h3>' + feature.properties.Airbase + ", " + feature.properties.County + '</h3><p><br>' + "Command:" + feature.properties.Command + "Wing (3 Groups):" + feature.properties.Wing (3 Groups) + "Group (4 Squads):" + feature.properties.Group (4 Squads) + '</br><br>' + "From:" + feature.properties.Start + '</br><br>' + "To:" + feature.properties.End + '</br></p>')
+    .setLngLat(feature.geometry.coordinates)
+    .addTo(map);
+});
+</script>
+
+<html>
+
