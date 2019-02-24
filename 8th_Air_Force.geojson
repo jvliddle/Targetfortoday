@@ -1,0 +1,4599 @@
+{
+  "type" : "FeatureCollection",
+  "crs" : {
+    "type" : "name",
+    "properties" : {
+      "name" : "EPSG:4326"
+    }
+  },
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.38305799999994861,
+          52.314722000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "Airforce" : 8,
+        "Command" : "Air Service",
+        "Division" : "VIII Air Service Command",
+        "Wing" : "3",
+        "Group_" : "1",
+        "Type1" : "BG",
+        "Type2" : "Medium",
+        "Aircraft1" : "B-26",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Kimbolton",
+        "County" : "Cambrideshire",
+        "Lat" : 52.314722000000003,
+        "Long" : -0.38305800000000001,
+        "Start" : -860025600000,
+        "End" : -857347200000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1.3113890000000197,
+          52.470556000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 2,
+        "Airforce" : 8,
+        "Command" : "Air Service",
+        "Division" : "VIII Air Service Command",
+        "Wing" : "3",
+        "Group_" : "310",
+        "Type1" : "BG",
+        "Type2" : "Medium",
+        "Aircraft1" : "B-25",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Hardwick",
+        "County" : "Norfolk",
+        "Lat" : 52.470556000000002,
+        "Long" : 1.3113889999999999,
+        "Start" : -862617600000,
+        "End" : -857347200000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.46027800000007346,
+          51.897500000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 3,
+        "Airforce" : 8,
+        "Command" : "Air Service",
+        "Division" : "VIII Air Service Command",
+        "Wing" : "3",
+        "Group_" : "322",
+        "Type1" : "BG",
+        "Type2" : "Medium",
+        "Aircraft1" : "B-26",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Andrews Field",
+        "County" : "Essex",
+        "Lat" : 51.897500000000001,
+        "Long" : 0.46027800000000002,
+        "Start" : -839030400000,
+        "End" : -799459200000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.64846700000003921,
+          52.23927800000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 4,
+        "Airforce" : 8,
+        "Command" : "Air Service",
+        "Division" : "VIII Air Service Command",
+        "Wing" : "3",
+        "Group_" : "322",
+        "Type1" : "BG",
+        "Type2" : "Medium",
+        "Aircraft1" : "B-26",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Bury St. Edmonds",
+        "County" : "Suffolk",
+        "Lat" : 52.239277999999999,
+        "Long" : 0.64846700000000002,
+        "Start" : -854755200000,
+        "End" : -852076800000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          2.1127780000000485,
+          49.45444400000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 5,
+        "Airforce" : 8,
+        "Command" : "Air Service",
+        "Division" : "VIII Air Service Command",
+        "Wing" : "3",
+        "Group_" : "322",
+        "Type1" : "BG",
+        "Type2" : "Medium",
+        "Aircraft1" : "B-26",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Beauvais/Tille",
+        "County" : "Tille",
+        "Lat" : 49.454444000000002,
+        "Long" : 2.112778,
+        "Start" : -799459200000,
+        "End" : -783820800000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          9.2434830000000261,
+          51.113718000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 6,
+        "Airforce" : 8,
+        "Command" : "Air Service",
+        "Division" : "VIII Air Service Command",
+        "Wing" : "3",
+        "Group_" : "322",
+        "Type1" : "BG",
+        "Type2" : "Medium",
+        "Aircraft1" : "B-26",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Fritzlar",
+        "County" : "Germany",
+        "Lat" : 51.113717999999999,
+        "Long" : 9.2434829999999994,
+        "Start" : -775872000000,
+        "End" : -758937600000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.70200000000005502,
+          51.928000000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 7,
+        "Airforce" : 8,
+        "Command" : "Air Service",
+        "Division" : "VIII Air Service Command",
+        "Wing" : "3",
+        "Group_" : "323",
+        "Type1" : "BG",
+        "Type2" : "Medium",
+        "Aircraft1" : "B-26",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Earls Colne",
+        "County" : "Essex",
+        "Lat" : 51.927999999999997,
+        "Long" : 0.70199999999999996,
+        "Start" : -837907200000,
+        "End" : -803088000000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1.2490000000000236,
+          52.305000000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 8,
+        "Airforce" : 8,
+        "Command" : "Air Service",
+        "Division" : "VIII Air Service Command",
+        "Wing" : "3",
+        "Group_" : "323",
+        "Type1" : "BG",
+        "Type2" : "Medium",
+        "Aircraft1" : "B-26",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Horham",
+        "County" : "Suffolk",
+        "Lat" : 52.305,
+        "Long" : 1.2490000000000001,
+        "Start" : -840758400000,
+        "End" : -837907200000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -1.5080559999999537,
+          49.202222000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 9,
+        "Airforce" : 8,
+        "Command" : "Air Service",
+        "Division" : "VIII Air Service Command",
+        "Wing" : "3",
+        "Group_" : "323",
+        "Type1" : "BG",
+        "Type2" : "Medium",
+        "Aircraft1" : "B-26",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Lessay",
+        "County" : "Manche",
+        "Lat" : 49.202221999999999,
+        "Long" : -1.5080560000000001,
+        "Start" : -799977600000,
+        "End" : -797731200000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1.5238890000000538,
+          48.458889000000056
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 10,
+        "Airforce" : 8,
+        "Command" : "Air Service",
+        "Division" : "VIII Air Service Command",
+        "Wing" : "3",
+        "Group_" : "323",
+        "Type1" : "BG",
+        "Type2" : "Medium",
+        "Aircraft1" : "B-26",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Chartres",
+        "County" : "Eure-et-Loire",
+        "Lat" : 48.458888999999999,
+        "Long" : 1.523889,
+        "Start" : -797731200000,
+        "End" : -795744000000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          3.7086110000000758,
+          49.596389000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 11,
+        "Airforce" : 8,
+        "Command" : "Air Service",
+        "Division" : "VIII Air Service Command",
+        "Wing" : "3",
+        "Group_" : "323",
+        "Type1" : "BG",
+        "Type2" : "Medium",
+        "Aircraft1" : "B-26",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Laon/Athies",
+        "County" : "Aisne",
+        "Lat" : 49.596389000000002,
+        "Long" : 3.7086109999999999,
+        "Start" : -795744000000,
+        "End" : -786240000000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          3.4611110000000735,
+          50.325556000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 12,
+        "Airforce" : 8,
+        "Command" : "Air Service",
+        "Division" : "VIII Air Service Command",
+        "Wing" : "3",
+        "Group_" : "323",
+        "Type1" : "BG",
+        "Type2" : "Medium",
+        "Aircraft1" : "B-26",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Denain/Prouvy",
+        "County" : "Nord-Pas-De-Calias",
+        "Lat" : 50.325555999999999,
+        "Long" : 3.4611109999999998,
+        "Start" : -786240000000,
+        "End" : -777340800000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.30888900000002195,
+          51.884722000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 13,
+        "Airforce" : 8,
+        "Command" : "Air Service",
+        "Division" : "VIII Air Service Command",
+        "Wing" : "3",
+        "Group_" : "326",
+        "Type1" : "BG",
+        "Type2" : "Medium",
+        "Aircraft1" : "B-26",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Great Dunmow",
+        "County" : "Essex",
+        "Lat" : 51.884721999999996,
+        "Long" : 0.30888900000000002,
+        "Start" : -831081600000,
+        "End" : -796867200000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.8954930000000445,
+          51.961939000000029
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 14,
+        "Airforce" : 8,
+        "Command" : "Air Service",
+        "Division" : "VIII Air Service Command",
+        "Wing" : "3",
+        "Group_" : "386",
+        "Type1" : "BG",
+        "Type2" : "Medium",
+        "Aircraft1" : "B-26",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Boxted",
+        "County" : "Essex",
+        "Lat" : 51.961939000000001,
+        "Long" : 0.89549299999999998,
+        "Start" : -838252800000,
+        "End" : -831772800000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.96000000000003638,
+          52.470000000000027
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 15,
+        "Airforce" : 8,
+        "Command" : "Air Service",
+        "Division" : "VIII Air Service Command",
+        "Wing" : "3",
+        "Group_" : "386",
+        "Type1" : "BG",
+        "Type2" : "Medium",
+        "Aircraft1" : "B-26",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Snetterton Heath",
+        "County" : "Norfolk",
+        "Lat" : 52.469999999999999,
+        "Long" : 0.95999999999999996,
+        "Start" : -838857600000,
+        "End" : -838252800000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          2.3116670000000568,
+          49.165000000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 16,
+        "Airforce" : 8,
+        "Command" : "Air Service",
+        "Division" : "VIII Air Service Command",
+        "Wing" : "3",
+        "Group_" : "386",
+        "Type1" : "BG",
+        "Type2" : "Medium",
+        "Aircraft1" : "B-26",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Beaumont-sur-Oise",
+        "County" : "Val d'Oise",
+        "Lat" : 49.164999999999999,
+        "Long" : 2.3116669999999999,
+        "Start" : -796780800000,
+        "End" : -780451200000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          5.2016670000000431,
+          50.791944000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 17,
+        "Airforce" : 8,
+        "Command" : "Air Service",
+        "Division" : "VIII Air Service Command",
+        "Wing" : "3",
+        "Group_" : "386",
+        "Type1" : "BG",
+        "Type2" : "Medium",
+        "Aircraft1" : "B-26",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "St. Trond",
+        "County" : "Belgium",
+        "Lat" : 50.791944000000001,
+        "Long" : 5.2016669999999996,
+        "Start" : -780451200000,
+        "End" : -770083200000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.2886110000000599,
+          51.72500000000008
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 18,
+        "Airforce" : 8,
+        "Command" : "Air Service",
+        "Division" : "VIII Air Service Command",
+        "Wing" : "3",
+        "Group_" : "387",
+        "Type1" : "BG",
+        "Type2" : "Medium",
+        "Aircraft1" : "B-26",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Chipping Ongar",
+        "County" : "Essex",
+        "Lat" : 51.725000000000001,
+        "Long" : 0.28861100000000001,
+        "Start" : -837043200000,
+        "End" : -827193600000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.86194499999993468,
+          52.392778000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 19,
+        "Airforce" : 8,
+        "Command" : "Air Service",
+        "Division" : "VIII Air Service Command",
+        "Wing" : "3",
+        "Group_" : "801",
+        "Type1" : "BG",
+        "Type2" : "Provisional",
+        "Aircraft1" : "B-24",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Harrington",
+        "County" : "Northhamptonshire",
+        "Lat" : 52.392778,
+        "Long" : -0.86194499999999996,
+        "Start" : -815356800000,
+        "End" : -773280000000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.86300000000005639,
+          52.564000000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 20,
+        "Airforce" : 8,
+        "Command" : "Air Service",
+        "Division" : "VIII Air Service Command",
+        "Wing" : "3",
+        "Group_" : "801",
+        "Type1" : "BG",
+        "Type2" : "Provisional",
+        "Aircraft1" : "B-24",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Watton",
+        "County" : "Norfolk",
+        "Lat" : 52.564,
+        "Long" : 0.86299999999999999,
+        "Start" : -817862400000,
+        "End" : -812678400000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.31670299999996132,
+          52.362357000000031
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 21,
+        "Airforce" : 8,
+        "Command" : "Air Service",
+        "Division" : "VIII Air Service Command",
+        "Wing" : "3",
+        "Group_" : "801",
+        "Type1" : "BG",
+        "Type2" : "Provisional/Carpetbagger and Leaflet",
+        "Aircraft1" : "B-24",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Alconbury",
+        "County" : "Cambrideshire",
+        "Lat" : 52.362357000000003,
+        "Long" : -0.31670300000000001,
+        "Start" : -823219200000,
+        "End" : -817862400000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.53333299999997053,
+          52.301667000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 22,
+        "Airforce" : 8,
+        "Command" : "Air Service",
+        "Division" : "VIII Ground Air Support Command",
+        "Wing" : "N/A",
+        "Group_" : "60",
+        "Type1" : "TCG",
+        "Type2" : "Troop Carrier",
+        "Aircraft1" : "C-47",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Chelveston",
+        "County" : "Northhamptonshire",
+        "Lat" : 52.301667000000002,
+        "Long" : -0.53333299999999995,
+        "Start" : -869616000000,
+        "End" : -864777600000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -1.2822229999999308,
+          51.378611000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 23,
+        "Airforce" : 8,
+        "Command" : "Air Service",
+        "Division" : "VIII Ground Air Support Command",
+        "Wing" : "N/A",
+        "Group_" : "67",
+        "Type1" : "RG",
+        "Type2" : "Recon",
+        "Aircraft1" : "A-20",
+        "Aircraft2" : "P-47",
+        "Aircraft3" : "P-51",
+        "Aircraft4" : null,
+        "Airbase" : "Greenham Common",
+        "County" : "Berkshire",
+        "Lat" : 51.378610999999999,
+        "Long" : -1.2822229999999999,
+        "Start" : -821923200000,
+        "End" : -819849600000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -1.55499999999995,
+          51.478000000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 24,
+        "Airforce" : 8,
+        "Command" : "Air Service",
+        "Division" : "VIII Ground Air Support Command",
+        "Wing" : "N/A",
+        "Group_" : "67",
+        "Type1" : "RG",
+        "Type2" : "Recon",
+        "Aircraft1" : "A-20",
+        "Aircraft2" : "P-47",
+        "Aircraft3" : "P-51",
+        "Aircraft4" : null,
+        "Airbase" : "Membury",
+        "County" : "Berkshire",
+        "Lat" : 51.478000000000002,
+        "Long" : -1.5549999999999999,
+        "Start" : -862185600000,
+        "End" : -822268800000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.082348999999965145,
+          52.074782000000027
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 25,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "1",
+        "Wing" : "1",
+        "Group_" : "91",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Bassingbourn",
+        "County" : "Cambrideshire",
+        "Lat" : 52.074781999999999,
+        "Long" : -0.082349000000000006,
+        "Start" : -858902400000,
+        "End" : -773971200000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.38305599999995366,
+          52.314722000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 26,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "1",
+        "Wing" : "1",
+        "Group_" : "91",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Kimbolton",
+        "County" : "Cambrideshire",
+        "Lat" : 52.314722000000003,
+        "Long" : -0.38305600000000001,
+        "Start" : -861667200000,
+        "End" : -858988800000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.64972199999994018,
+          52.420833000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 27,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "1",
+        "Wing" : "1",
+        "Group_" : "97",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Grafton Underwood",
+        "County" : "Northhamptonshire",
+        "Lat" : 52.420833000000002,
+        "Long" : -0.64972200000000002,
+        "Start" : -867974400000,
+        "End" : -862617600000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.3902779999999666,
+          52.468889000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 28,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "1",
+        "Wing" : "1",
+        "Group_" : "97",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Polebrook",
+        "County" : "Northhamptonshire",
+        "Lat" : 52.468888999999997,
+        "Long" : -0.39027800000000001,
+        "Start" : -869702400000,
+        "End" : -856569600000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.53333299999997053,
+          52.301667000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 29,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "1",
+        "Wing" : "1",
+        "Group_" : "301",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Chelveston",
+        "County" : "Northhamptonshire",
+        "Lat" : 52.301667000000002,
+        "Long" : -0.53333299999999995,
+        "Start" : -864604800000,
+        "End" : -855187200000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.60583299999996143,
+          52.231111000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 30,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "1",
+        "Wing" : "1",
+        "Group_" : "301",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Podington",
+        "County" : "Bedfordshire",
+        "Lat" : 52.231110999999999,
+        "Long" : -0.60583299999999995,
+        "Start" : -864086400000,
+        "End" : -862531200000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.54000000000002046,
+          52.040000000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 31,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "1",
+        "Wing" : "1",
+        "Group_" : "381",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Ridgewell",
+        "County" : "Essex",
+        "Lat" : 52.039999999999999,
+        "Long" : 0.54000000000000004,
+        "Start" : -838944000000,
+        "End" : -773884800000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.067000000000064119,
+          51.995000000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 32,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "1",
+        "Wing" : "1",
+        "Group_" : "398",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Nuthampstead",
+        "County" : "Hertfordshire",
+        "Lat" : 51.994999999999997,
+        "Long" : 0.067000000000000004,
+        "Start" : -810864000000,
+        "End" : -776390400000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.31670299999996132,
+          52.362357000000031
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 33,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "1",
+        "Wing" : "1",
+        "Group_" : "482",
+        "Type1" : "BG",
+        "Type2" : "Provisional/Pathfinder",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Alconbury",
+        "County" : "Cambrideshire",
+        "Lat" : 52.362357000000003,
+        "Long" : -0.31670300000000001,
+        "Start" : -832118400000,
+        "End" : -776822400000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.31670299999996132,
+          52.362357000000031
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 34,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "1",
+        "Wing" : "40",
+        "Group_" : "92",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Alconbury",
+        "County" : "Cambrideshire",
+        "Lat" : 52.362357000000003,
+        "Long" : -0.31670300000000001,
+        "Start" : -851644800000,
+        "End" : -829872000000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.56231499999995549,
+          51.720189000000062
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 35,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "1",
+        "Wing" : "40",
+        "Group_" : "92",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Bovingdon",
+        "County" : "Hertfordshire",
+        "Lat" : 51.720188999999998,
+        "Long" : -0.56231500000000001,
+        "Start" : -863827200000,
+        "End" : -851644800000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.60583399999995891,
+          52.231111000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 36,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "1",
+        "Wing" : "40",
+        "Group_" : "92",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Podington",
+        "County" : "Bedfordshire",
+        "Lat" : 52.231110999999999,
+        "Long" : -0.60583399999999998,
+        "Start" : -829872000000,
+        "End" : -774921600000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.53333299999997053,
+          52.301667000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 37,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "1",
+        "Wing" : "40",
+        "Group_" : "305",
+        "Type1" : "422 BS",
+        "Type2" : "Leaflet",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Chelveston",
+        "County" : "Northhamptonshire",
+        "Lat" : 52.301667000000002,
+        "Long" : -0.53333299999999995,
+        "Start" : -853891200000,
+        "End" : -771206400000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.64972199999994018,
+          52.420833000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 38,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "1",
+        "Wing" : "40",
+        "Group_" : "305",
+        "Type1" : "422 BS",
+        "Type2" : "Leaflet",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Grafton Underwood",
+        "County" : "Northhamptonshire",
+        "Lat" : 52.420833000000002,
+        "Long" : -0.64972200000000002,
+        "Start" : -861667200000,
+        "End" : -853891200000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.53333299999997053,
+          52.301667000000066
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 39,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "1",
+        "Wing" : "40",
+        "Group_" : "305",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Chelveston",
+        "County" : "Northhamptonshire",
+        "Lat" : 52.301667000000002,
+        "Long" : -0.53333299999999995,
+        "Start" : -853891200000,
+        "End" : -771292800000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.64972199999994018,
+          52.420833000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 40,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "1",
+        "Wing" : "40",
+        "Group_" : "305",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Grafton Underwood",
+        "County" : "Northhamptonshire",
+        "Lat" : 52.420833000000002,
+        "Long" : -0.64972200000000002,
+        "Start" : -861580800000,
+        "End" : -853977600000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.47472199999992881,
+          52.229722000000038
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 41,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "1",
+        "Wing" : "40",
+        "Group_" : "306",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Thurleigh",
+        "County" : "Bedfordshire",
+        "Lat" : 52.229722000000002,
+        "Long" : -0.47472199999999998,
+        "Start" : -862099200000,
+        "End" : -758073600000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1.5500000000000682,
+          52.216667000000029
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 42,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "1",
+        "Wing" : "41",
+        "Group_" : "303",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Leiston",
+        "County" : "Suffolk",
+        "Lat" : 52.216667000000001,
+        "Long" : 1.55,
+        "Start" : -825811200000,
+        "End" : -817862400000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.40499999999997272,
+          52.379444000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 43,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "1",
+        "Wing" : "41",
+        "Group_" : "303",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Molesworth",
+        "County" : "Cambrideshire",
+        "Lat" : 52.379443999999999,
+        "Long" : -0.40500000000000003,
+        "Start" : -861667200000,
+        "End" : -775958400000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.38305699999995113,
+          52.314722000000074
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 44,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "1",
+        "Wing" : "41",
+        "Group_" : "379",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Kimbolton",
+        "County" : "Cambrideshire",
+        "Lat" : 52.314722000000003,
+        "Long" : -0.38305699999999998,
+        "Start" : -839980800000,
+        "End" : -774921600000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.64972199999994018,
+          52.420833000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 45,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "1",
+        "Wing" : "41",
+        "Group_" : "384",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Grafton Underwood",
+        "County" : "Northhamptonshire",
+        "Lat" : 52.420833000000002,
+        "Long" : -0.64972200000000002,
+        "Start" : -838771200000,
+        "End" : -837216000000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.39027899999996407,
+          52.468889000000047
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 46,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "1",
+        "Wing" : "94",
+        "Group_" : "351",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Polebrook",
+        "County" : "Northhamptonshire",
+        "Lat" : 52.468888999999997,
+        "Long" : -0.39027899999999999,
+        "Start" : -843091200000,
+        "End" : -776822400000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.58499999999997954,
+          52.502500000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 47,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "1",
+        "Wing" : "94",
+        "Group_" : "401",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Deenethorpe",
+        "County" : "Northhamptonshire",
+        "Lat" : 52.502499999999998,
+        "Long" : -0.58499999999999996,
+        "Start" : -826934400000,
+        "End" : -775958400000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.25194399999998041,
+          52.466111000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 48,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "1",
+        "Wing" : "94",
+        "Group_" : "457",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Glatton",
+        "County" : "Cambrideshire",
+        "Lat" : 52.466110999999998,
+        "Long" : -0.251944,
+        "Start" : -818726400000,
+        "End" : -775872000000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1.1708330000000728,
+          52.564444000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 49,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "2",
+        "Wing" : "2",
+        "Group_" : "389",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-24",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Hethel",
+        "County" : "Norfolk",
+        "Lat" : 52.564444000000002,
+        "Long" : 1.170833,
+        "Start" : -838166400000,
+        "End" : -776044800000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1.160000000000025,
+          52.460000000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 50,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "2",
+        "Wing" : "2",
+        "Group_" : "445",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-24",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Tibenham",
+        "County" : "Norfolk",
+        "Lat" : 52.460000000000001,
+        "Long" : 1.1599999999999999,
+        "Start" : -825552000000,
+        "End" : -776217600000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1.063000000000045,
+          52.504000000000076
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 51,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "2",
+        "Wing" : "2",
+        "Group_" : "453",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-24",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Old Buckenham",
+        "County" : "Norfolk",
+        "Lat" : 52.503999999999998,
+        "Long" : 1.0629999999999999,
+        "Start" : -821318400000,
+        "End" : -777859200000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.68124999999997726,
+          51.834778000000028
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 52,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "2",
+        "Wing" : "14",
+        "Group_" : "44",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-24",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Cheddington",
+        "County" : "Bukinghamshire",
+        "Lat" : 51.834778,
+        "Long" : -0.68125000000000002,
+        "Start" : -861753600000,
+        "End" : -859334400000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.92000000000007276,
+          52.620000000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 53,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "2",
+        "Wing" : "14",
+        "Group_" : "44",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-24",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Shipdham",
+        "County" : "Norfolk",
+        "Lat" : 52.619999999999997,
+        "Long" : 0.92000000000000004,
+        "Start" : -859248000000,
+        "End" : -774662400000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.84000000000003183,
+          52.700000000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 54,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "2",
+        "Wing" : "14",
+        "Group_" : "392",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-24",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Wendling",
+        "County" : "Norfolk",
+        "Lat" : 52.700000000000003,
+        "Long" : 0.83999999999999997,
+        "Start" : -834969600000,
+        "End" : -773798400000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.73305600000003324,
+          52.626944000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 55,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "2",
+        "Wing" : "14",
+        "Group_" : "491",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-24",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "North Pickenham",
+        "County" : "Norfolk",
+        "Lat" : 52.626944000000002,
+        "Long" : 0.73305600000000004,
+        "Start" : -801360000000,
+        "End" : -771984000000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.8619439999999372,
+          52.392778000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 56,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "2",
+        "Wing" : "14",
+        "Group_" : "492",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-24",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Harrington",
+        "County" : "Northhamptonshire",
+        "Lat" : 52.392778,
+        "Long" : -0.86194400000000004,
+        "Start" : -801792000000,
+        "End" : -772675200000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.73305600000003324,
+          52.626944000000037
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 57,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "2",
+        "Wing" : "14",
+        "Group_" : "492",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-24",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "North Pickenham",
+        "County" : "Norfolk",
+        "Lat" : 52.626944000000002,
+        "Long" : 0.73305600000000004,
+        "Start" : -811209600000,
+        "End" : -801792000000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.31670299999996132,
+          52.362357000000031
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 58,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "2",
+        "Wing" : "20",
+        "Group_" : "93",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-24",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Alconbury",
+        "County" : "Cambrideshire",
+        "Lat" : 52.362357000000003,
+        "Long" : -0.31670300000000001,
+        "Start" : -862099200000,
+        "End" : -854323200000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1.3113890000000197,
+          52.470556000000045
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 59,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "2",
+        "Wing" : "20",
+        "Group_" : "93",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-24",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Hardwick",
+        "County" : "Norfolk",
+        "Lat" : 52.470556000000002,
+        "Long" : 1.3113889999999999,
+        "Start" : -854323200000,
+        "End" : -776995200000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1.360947000000067,
+          52.428931000000034
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 60,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "2",
+        "Wing" : "20",
+        "Group_" : "446",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-24",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Bungay (Flixton)",
+        "County" : "Suffolk",
+        "Lat" : 52.428930999999999,
+        "Long" : 1.3609469999999999,
+        "Start" : -825724800000,
+        "End" : -772848000000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1.4000000000000341,
+          52.510000000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 61,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "2",
+        "Wing" : "20",
+        "Group_" : "448",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-24",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Seething",
+        "County" : "Norfolk",
+        "Lat" : 52.509999999999998,
+        "Long" : 1.3999999999999999,
+        "Start" : -823219200000,
+        "End" : -773280000000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1.5238890000000538,
+          52.365556000000026
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 62,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "2",
+        "Wing" : "20",
+        "Group_" : "489",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-24",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Halesworth",
+        "County" : "Suffolk",
+        "Lat" : 52.365555999999998,
+        "Long" : 1.523889,
+        "Start" : -810086400000,
+        "End" : -794188800000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1.2827780000000644,
+          52.675833000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 63,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "2",
+        "Wing" : "96",
+        "Group_" : "458",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-24",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Horsham St. Faith",
+        "County" : "Norfolk",
+        "Lat" : 52.675832999999997,
+        "Long" : 1.282778,
+        "Start" : -820540800000,
+        "End" : -774748800000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1.1475000000000364,
+          52.705765000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 64,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "2",
+        "Wing" : "96",
+        "Group_" : "466",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-24",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Attlebridge",
+        "County" : "Norfolk",
+        "Lat" : 52.705765,
+        "Long" : 1.1475,
+        "Start" : -814838400000,
+        "End" : -772848000000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1.3786110000000349,
+          52.674444000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 65,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "2",
+        "Wing" : "96",
+        "Group_" : "467",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-24",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Rackheath",
+        "County" : "Norfolk",
+        "Lat" : 52.674444000000001,
+        "Long" : 1.378611,
+        "Start" : -814492800000,
+        "End" : -774921600000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.082348999999965145,
+          52.074782000000027
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 66,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "3",
+        "Wing" : "4",
+        "Group_" : "94",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Bassingbourn",
+        "County" : "Cambrideshire",
+        "Lat" : 52.074781999999999,
+        "Long" : -0.082349000000000006,
+        "Start" : -844300800000,
+        "End" : -837820800000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.64846700000003921,
+          52.23927800000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 67,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "3",
+        "Wing" : "4",
+        "Group_" : "94",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Bury St. Edmonds",
+        "County" : "Suffolk",
+        "Lat" : 52.239277999999999,
+        "Long" : 0.64846700000000002,
+        "Start" : -837820800000,
+        "End" : -759110400000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.70200000000005502,
+          51.928000000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 68,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "3",
+        "Wing" : "4",
+        "Group_" : "94",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Earls Colne",
+        "County" : "Essex",
+        "Lat" : 51.927999999999997,
+        "Long" : 0.70199999999999996,
+        "Start" : -840844800000,
+        "End" : -837820800000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.86444400000004862,
+          52.167500000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 69,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "3",
+        "Wing" : "4",
+        "Group_" : "447",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Rattlesden",
+        "County" : "Suffolk",
+        "Lat" : 52.167499999999997,
+        "Long" : 0.86444399999999999,
+        "Start" : -823392000000,
+        "End" : -770601600000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.75600000000002865,
+          52.062000000000069
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 70,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "3",
+        "Wing" : "4",
+        "Group_" : "486",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : "B-24",
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Sudbury",
+        "County" : "Suffolk",
+        "Lat" : 52.061999999999998,
+        "Long" : 0.75600000000000001,
+        "Start" : -799286400000,
+        "End" : -768700800000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.76926400000002104,
+          52.13656700000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 71,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "3",
+        "Wing" : "4",
+        "Group_" : "487",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Lavenham",
+        "County" : "Suffolk",
+        "Lat" : 52.136566999999999,
+        "Long" : 0.76926399999999995,
+        "Start" : -812332800000,
+        "End" : -768441600000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.31670299999996132,
+          52.362357000000031
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 72,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "3",
+        "Wing" : "13",
+        "Group_" : "95",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Alconbury",
+        "County" : "Cambrideshire",
+        "Lat" : 52.362357000000003,
+        "Long" : -0.31670300000000001,
+        "Start" : -844300800000,
+        "End" : -839030400000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1.4080560000000446,
+          52.198056000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 73,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "3",
+        "Wing" : "13",
+        "Group_" : "95",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Framlingham",
+        "County" : "Suffolk",
+        "Lat" : 52.198056000000001,
+        "Long" : 1.408056,
+        "Start" : -840758400000,
+        "End" : -837820800000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1.2490000000000236,
+          52.305000000000064
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 74,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "3",
+        "Wing" : "13",
+        "Group_" : "95",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Horham",
+        "County" : "Suffolk",
+        "Lat" : 52.305,
+        "Long" : 1.2490000000000001,
+        "Start" : -837820800000,
+        "End" : -770169600000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.60583499999995638,
+          52.231111000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 75,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "3",
+        "Wing" : "13",
+        "Group_" : "100",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Podington",
+        "County" : "Bedfordshire",
+        "Lat" : 52.231110999999999,
+        "Long" : -0.60583500000000001,
+        "Start" : -838944000000,
+        "End" : -838425600000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1.2200000000000273,
+          52.380000000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 76,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "3",
+        "Wing" : "13",
+        "Group_" : "100",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Thorpe Abbotts",
+        "County" : "Norfolk",
+        "Lat" : 52.380000000000003,
+        "Long" : 1.22,
+        "Start" : -838339200000,
+        "End" : -758419200000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1.4080560000000446,
+          52.198056000000065
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 77,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "3",
+        "Wing" : "13",
+        "Group_" : "390",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Framlingham",
+        "County" : "Suffolk",
+        "Lat" : 52.198056000000001,
+        "Long" : 1.408056,
+        "Start" : -834278400000,
+        "End" : -770169600000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 78,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.46027800000007346,
+          51.897500000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 78,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "3",
+        "Wing" : "45",
+        "Group_" : "96",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Andrews Field",
+        "County" : "Essex",
+        "Lat" : 51.897500000000001,
+        "Long" : 0.46027800000000002,
+        "Start" : -840758400000,
+        "End" : -838080000000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 79,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.64972199999994018,
+          52.420833000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 79,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "3",
+        "Wing" : "45",
+        "Group_" : "96",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Grafton Underwood",
+        "County" : "Northhamptonshire",
+        "Lat" : 52.420833000000002,
+        "Long" : -0.64972200000000002,
+        "Start" : -844300800000,
+        "End" : -841708800000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 80,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.96000000000003638,
+          52.470000000000027
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 80,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "3",
+        "Wing" : "45",
+        "Group_" : "96",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Snetterton Heath",
+        "County" : "Norfolk",
+        "Lat" : 52.469999999999999,
+        "Long" : 0.95999999999999996,
+        "Start" : -838080000000,
+        "End" : -759110400000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 81,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.87805600000007189,
+          52.373889000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 81,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "3",
+        "Wing" : "45",
+        "Group_" : "388",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Knettishall",
+        "County" : "Suffolk",
+        "Lat" : 52.373888999999998,
+        "Long" : 0.87805599999999995,
+        "Start" : -838252800000,
+        "End" : -768268800000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 82,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.99200600000006034,
+          52.551589000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 82,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "3",
+        "Wing" : "45",
+        "Group_" : "452",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Deopham Green",
+        "County" : "Norfolk",
+        "Lat" : 52.551589,
+        "Long" : 0.99200600000000005,
+        "Start" : -820368000000,
+        "End" : -770169600000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 83,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1.1180000000000518,
+          52.233000000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 83,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "3",
+        "Wing" : "93",
+        "Group_" : "34",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Mendlesham",
+        "County" : "Suffolk",
+        "Lat" : 52.232999999999997,
+        "Long" : 1.1180000000000001,
+        "Start" : -810518400000,
+        "End" : -771206400000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 84,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.94361100000003262,
+          52.25555600000007
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 84,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "3",
+        "Wing" : "93",
+        "Group_" : "385",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Great Ashfield",
+        "County" : "Suffolk",
+        "Lat" : 52.255555999999999,
+        "Long" : 0.94361099999999998,
+        "Start" : -836611200000,
+        "End" : -770169600000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 85,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1.1299030000000698,
+          52.332981000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 85,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "3",
+        "Wing" : "93",
+        "Group_" : "490",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Eye",
+        "County" : "Suffolk",
+        "Lat" : 52.332980999999997,
+        "Long" : 1.1299030000000001,
+        "Start" : -810086400000,
+        "End" : -770601600000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 86,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1.2697390000000723,
+          52.138875000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 86,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "3",
+        "Wing" : "93",
+        "Group_" : "493",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Debach",
+        "County" : "Suffolk",
+        "Lat" : 52.138874999999999,
+        "Long" : 1.269739,
+        "Start" : -812678400000,
+        "End" : -770601600000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 87,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.67538300000006757,
+          52.383255000000077
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 87,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "3",
+        "Wing" : "93",
+        "Group_" : "493",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Elveden Hall",
+        "County" : "Norfolk",
+        "Lat" : 52.383254999999998,
+        "Long" : 0.67538299999999996,
+        "Start" : -820540800000,
+        "End" : -811296000000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 88,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.26805600000005825,
+          52.068333000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 88,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "3",
+        "Wing" : "93",
+        "Group_" : "493",
+        "Type1" : "BG",
+        "Type2" : "Heavy",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Little Walden",
+        "County" : "Essex",
+        "Lat" : 52.068333000000003,
+        "Long" : 0.26805600000000002,
+        "Start" : -783820800000,
+        "End" : -781142400000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 89,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.86300000000005639,
+          52.564000000000078
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 89,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "N/A",
+        "Wing" : "325",
+        "Group_" : "25",
+        "Type1" : "BG",
+        "Type2" : "Recon and Chaff",
+        "Aircraft1" : "B-17",
+        "Aircraft2" : "B-24",
+        "Aircraft3" : "B-26",
+        "Aircraft4" : "Mosquito",
+        "Airbase" : "Watton",
+        "County" : "Norfolk",
+        "Lat" : 52.564,
+        "Long" : 0.86299999999999999,
+        "Start" : -801446400000,
+        "End" : -771379200000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 90,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.64972199999994018,
+          52.420833000000073
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 90,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "N/A",
+        "Wing" : "N/A",
+        "Group_" : "N/A",
+        "Type1" : "15 BS",
+        "Type2" : "Light",
+        "Aircraft1" : "DB-7",
+        "Aircraft2" : "A-20",
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Grafton Underwood",
+        "County" : "Northhamptonshire",
+        "Lat" : 52.420833000000002,
+        "Long" : -0.64972200000000002,
+        "Start" : -872121600000,
+        "End" : -869011200000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 91,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.40599999999994907,
+          52.379444000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 91,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "N/A",
+        "Wing" : "N/A",
+        "Group_" : "N/A",
+        "Type1" : "15 BS",
+        "Type2" : "Light",
+        "Aircraft1" : "DB-7",
+        "Aircraft2" : "A-20",
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Molesworth",
+        "County" : "Cambrideshire",
+        "Lat" : 52.379443999999999,
+        "Long" : -0.40600000000000003,
+        "Start" : -869875200000,
+        "End" : -861494400000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 92,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.60583599999995386,
+          52.231111000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 92,
+        "Airforce" : 8,
+        "Command" : "Bomber",
+        "Division" : "N/A",
+        "Wing" : "N/A",
+        "Group_" : "N/A",
+        "Type1" : "15 BS",
+        "Type2" : "Light",
+        "Aircraft1" : "DB-7",
+        "Aircraft2" : "A-20",
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Podington",
+        "County" : "Bedfordshire",
+        "Lat" : 52.231110999999999,
+        "Long" : -0.60583600000000004,
+        "Start" : -861580800000,
+        "End" : -856310400000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 93,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.7730560000000537,
+          52.34250000000003
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 93,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "1",
+        "Wing" : "61",
+        "Group_" : "364",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-38",
+        "Aircraft2" : "P-51",
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Honington",
+        "County" : "Suffolk",
+        "Lat" : 52.342500000000001,
+        "Long" : 0.77305599999999997,
+        "Start" : -817084800000,
+        "End" : -762393600000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 94,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.48259999999993397,
+          52.57027800000003
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 94,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "1",
+        "Wing" : "67",
+        "Group_" : "20",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-38",
+        "Aircraft2" : "P-51",
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "King's Cliffe",
+        "County" : "Northhamptonshire",
+        "Lat" : 52.570278000000002,
+        "Long" : -0.48259999999999997,
+        "Start" : -831600000000,
+        "End" : -764467200000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 95,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.68148600000006354,
+          52.552054000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 95,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "1",
+        "Wing" : "67",
+        "Group_" : "352",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-47",
+        "Aircraft2" : "P-51",
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Bodney",
+        "County" : "Norfolk",
+        "Lat" : 52.552053999999998,
+        "Long" : 0.68148600000000004,
+        "Start" : -835920000000,
+        "End" : -786758400000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 96,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.68148600000006354,
+          52.552054000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 96,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "1",
+        "Wing" : "67",
+        "Group_" : "352",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-47",
+        "Aircraft2" : "P-51",
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Bodney",
+        "County" : "Norfolk",
+        "Lat" : 52.552053999999998,
+        "Long" : 0.68148600000000004,
+        "Start" : -780019200000,
+        "End" : -762480000000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 97,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          3.8311110000000212,
+          50.575833000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 97,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "1",
+        "Wing" : "67",
+        "Group_" : "352",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-47",
+        "Aircraft2" : "P-51",
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Chievres",
+        "County" : "Belgium",
+        "Lat" : 50.575833000000003,
+        "Long" : 3.8311109999999999,
+        "Start" : -786672000000,
+        "End" : -780019200000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 98,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.3155559999999582,
+          53.677778000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 98,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "1",
+        "Wing" : "67",
+        "Group_" : "356",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-47",
+        "Aircraft2" : "P-51",
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Goxhill",
+        "County" : "Lincolnshire",
+        "Lat" : 53.677778000000004,
+        "Long" : -0.315556,
+        "Start" : -831513600000,
+        "End" : -828144000000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 99,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1.2660000000000196,
+          52.05800000000005
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 99,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "1",
+        "Wing" : "67",
+        "Group_" : "356",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-47",
+        "Aircraft2" : "P-51",
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Martlesham Heath",
+        "County" : "Suffolk",
+        "Lat" : 52.058,
+        "Long" : 1.266,
+        "Start" : -828144000000,
+        "End" : -762393600000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 100,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.82102800000006937,
+          52.469700000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 100,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "1",
+        "Wing" : "67",
+        "Group_" : "359",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-47",
+        "Aircraft2" : "P-51",
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "East Wrestham",
+        "County" : "Norfolk",
+        "Lat" : 52.469700000000003,
+        "Long" : 0.82102799999999998,
+        "Start" : -826934400000,
+        "End" : -762393600000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 101,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.37309999999996535,
+          51.658400000000029
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 101,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "2",
+        "Wing" : "65",
+        "Group_" : "4",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "Spitfire",
+        "Aircraft2" : "P-47",
+        "Aircraft3" : "P-51",
+        "Aircraft4" : null,
+        "Airbase" : "Bushey Hall",
+        "County" : "Hertfordshire",
+        "Lat" : 51.6584,
+        "Long" : -0.37309999999999999,
+        "Start" : -861667200000,
+        "End" : -860198400000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 102,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1.2697400000000698,
+          52.138875000000041
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 102,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "2",
+        "Wing" : "65",
+        "Group_" : "4",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "Spitfire",
+        "Aircraft2" : "P-47",
+        "Aircraft3" : "P-51",
+        "Aircraft4" : null,
+        "Airbase" : "Debden",
+        "County" : "Suffolk",
+        "Lat" : 52.138874999999999,
+        "Long" : 1.2697400000000001,
+        "Start" : -860198400000,
+        "End" : -771379200000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 103,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.099999999999965894,
+          52.060000000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 103,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "2",
+        "Wing" : "65",
+        "Group_" : "4",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "Spitfire",
+        "Aircraft2" : "P-47",
+        "Aircraft3" : "P-51",
+        "Aircraft4" : null,
+        "Airbase" : "Stepple Morden",
+        "County" : "Cambrideshire",
+        "Lat" : 52.060000000000002,
+        "Long" : -0.10000000000000001,
+        "Start" : -771638400000,
+        "End" : -762393600000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 104,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.8954930000000445,
+          51.961939000000029
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 104,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "2",
+        "Wing" : "65",
+        "Group_" : "5",
+        "Type1" : "ERS",
+        "Type2" : "Rescue",
+        "Aircraft1" : "P-47",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Boxted",
+        "County" : "Essex",
+        "Lat" : 51.961939000000001,
+        "Long" : 0.89549299999999998,
+        "Start" : -810086400000,
+        "End" : -786844800000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 105,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1.5238890000000538,
+          52.365556000000026
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 105,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "2",
+        "Wing" : "65",
+        "Group_" : "5",
+        "Type1" : "ERS",
+        "Type2" : "Rescue",
+        "Aircraft1" : "P-47",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Halesworth",
+        "County" : "Suffolk",
+        "Lat" : 52.365555999999998,
+        "Long" : 1.523889,
+        "Start" : -786758400000,
+        "End" : -775958400000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 106,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.8954930000000445,
+          51.961939000000029
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 106,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "2",
+        "Wing" : "65",
+        "Group_" : "56",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-47",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Boxted",
+        "County" : "Essex",
+        "Lat" : 51.961939000000001,
+        "Long" : 0.89549299999999998,
+        "Start" : -811123200000,
+        "End" : -764467200000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 107,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1.2827790000000618,
+          52.675833000000068
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 107,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "2",
+        "Wing" : "65",
+        "Group_" : "56",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-47",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Horsham St. Faith",
+        "County" : "Norfolk",
+        "Lat" : 52.675832999999997,
+        "Long" : 1.2827789999999999,
+        "Start" : -843868800000,
+        "End" : -835747200000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 108,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.48249999999995907,
+          52.57027800000003
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 108,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "2",
+        "Wing" : "65",
+        "Group_" : "56",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-47",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Kings Cliffe",
+        "County" : "Northhamptonshire",
+        "Lat" : 52.570278000000002,
+        "Long" : -0.48249999999999998,
+        "Start" : -852076800000,
+        "End" : -843868800000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 109,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.26805600000005825,
+          52.068333000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 109,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "2",
+        "Wing" : "65",
+        "Group_" : "56",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-47",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Little Walden",
+        "County" : "Essex",
+        "Lat" : 52.068333000000003,
+        "Long" : 0.26805600000000002,
+        "Start" : -767232000000,
+        "End" : -764553600000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 110,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          4.7669440000000236,
+          50.75777800000003
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 110,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "2",
+        "Wing" : "65",
+        "Group_" : "355",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-47",
+        "Aircraft2" : "P-51",
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Le Culot",
+        "County" : "Belgium",
+        "Lat" : 50.757778000000002,
+        "Long" : 4.7669439999999996,
+        "Start" : -783820800000,
+        "End" : -775872000000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 111,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.099999999999965894,
+          52.060000000000059
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 111,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "2",
+        "Wing" : "65",
+        "Group_" : "355",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-47",
+        "Aircraft2" : "P-51",
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Stepple Morden",
+        "County" : "Cambrideshire",
+        "Lat" : 52.060000000000002,
+        "Long" : -0.10000000000000001,
+        "Start" : -835747200000,
+        "End" : -773107200000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 112,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.22426100000006954,
+          52.224990000000048
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 112,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "2",
+        "Wing" : "65",
+        "Group_" : "361",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-47",
+        "Aircraft2" : "P-51",
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Bottisham",
+        "County" : "Cambrideshire",
+        "Lat" : 52.224989999999998,
+        "Long" : 0.22426099999999999,
+        "Start" : -823305600000,
+        "End" : -797126400000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 113,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          3.8311120000000756,
+          50.575833000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 113,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "2",
+        "Wing" : "65",
+        "Group_" : "361",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-47",
+        "Aircraft2" : "P-51",
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Chievres",
+        "County" : "Belgium",
+        "Lat" : 50.575833000000003,
+        "Long" : 3.8311120000000001,
+        "Start" : -786240000000,
+        "End" : -780451200000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 114,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.26805600000005825,
+          52.068333000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 114,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "2",
+        "Wing" : "65",
+        "Group_" : "361",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-47",
+        "Aircraft2" : "P-51",
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Little Walden",
+        "County" : "Essex",
+        "Lat" : 52.068333000000003,
+        "Long" : 0.26805600000000002,
+        "Start" : -797299200000,
+        "End" : -786326400000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 115,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.26805600000005825,
+          52.068333000000052
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 115,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "2",
+        "Wing" : "65",
+        "Group_" : "361",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-47",
+        "Aircraft2" : "P-51",
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Little Walden",
+        "County" : "Essex",
+        "Lat" : 52.068333000000003,
+        "Long" : 0.26805600000000002,
+        "Start" : -780451200000,
+        "End" : -762480000000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 116,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.95600000000007412,
+          52.128000000000043
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 116,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "2",
+        "Wing" : "65",
+        "Group_" : "479",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-38",
+        "Aircraft2" : "P-51",
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Wattisham",
+        "County" : "Suffolk",
+        "Lat" : 52.128,
+        "Long" : 0.95599999999999996,
+        "Start" : -808876800000,
+        "End" : -760752000000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 117,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.067000000000064119,
+          51.995000000000061
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 117,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "3",
+        "Wing" : "66",
+        "Group_" : "55",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-38",
+        "Aircraft2" : "P-51",
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Nuthampstead",
+        "County" : "Hertfordshire",
+        "Lat" : 51.994999999999997,
+        "Long" : 0.067000000000000004,
+        "Start" : -829958400000,
+        "End" : -806112000000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 118,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.79200000000003001,
+          51.940000000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 118,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "3",
+        "Wing" : "66",
+        "Group_" : "55",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-38",
+        "Aircraft2" : "P-51",
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Wormingford",
+        "County" : "Essex",
+        "Lat" : 51.939999999999998,
+        "Long" : 0.79200000000000004,
+        "Start" : -811382400000,
+        "End" : -771465600000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 119,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.1319440000000327,
+          52.090833000000032
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 119,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "3",
+        "Wing" : "66",
+        "Group_" : "78",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-38",
+        "Aircraft2" : "P-47",
+        "Aircraft3" : "P-51",
+        "Aircraft4" : null,
+        "Airbase" : "Duxford",
+        "County" : "Cambrideshire",
+        "Lat" : 52.090833000000003,
+        "Long" : 0.13194400000000001,
+        "Start" : -844128000000,
+        "End" : -764553600000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 120,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.3155559999999582,
+          53.677778000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 120,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "3",
+        "Wing" : "66",
+        "Group_" : "78",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-38",
+        "Aircraft2" : "P-47",
+        "Aircraft3" : "P-51",
+        "Aircraft4" : null,
+        "Airbase" : "Goxhill",
+        "County" : "Lincolnshire",
+        "Lat" : 53.677778000000004,
+        "Long" : -0.315556,
+        "Start" : -854755200000,
+        "End" : -844128000000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 121,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.058611000000041713,
+          52.082500000000039
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 121,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "3",
+        "Wing" : "66",
+        "Group_" : "339",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-51",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Fowlmere",
+        "County" : "Cambrideshire",
+        "Lat" : 52.082500000000003,
+        "Long" : 0.058611000000000003,
+        "Start" : -812419200000,
+        "End" : -764121600000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 122,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.3155559999999582,
+          53.677778000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 122,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "3",
+        "Wing" : "66",
+        "Group_" : "353",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-47",
+        "Aircraft2" : "P-51",
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Goxhill",
+        "County" : "Lincolnshire",
+        "Lat" : 53.677778000000004,
+        "Long" : -0.315556,
+        "Start" : -838425600000,
+        "End" : -833587200000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 123,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1.3960000000000719,
+          52.367000000000075
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 123,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "3",
+        "Wing" : "66",
+        "Group_" : "353",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-47",
+        "Aircraft2" : "P-51",
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Metfield",
+        "County" : "Suffolk",
+        "Lat" : 52.366999999999997,
+        "Long" : 1.3959999999999999,
+        "Start" : -833587200000,
+        "End" : -811555200000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 124,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1.0000000000000568,
+          52.011000000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 124,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "3",
+        "Wing" : "66",
+        "Group_" : "353",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-47",
+        "Aircraft2" : "P-51",
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Raydon",
+        "County" : "Suffolk",
+        "Lat" : 52.011000000000003,
+        "Long" : 1,
+        "Start" : -811555200000,
+        "End" : -764467200000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 125,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1.5500000000000682,
+          52.216667000000029
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 125,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "3",
+        "Wing" : "66",
+        "Group_" : "357",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-51",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Leiston",
+        "County" : "Suffolk",
+        "Lat" : 52.216667000000001,
+        "Long" : 1.55,
+        "Start" : -817948800000,
+        "End" : -772675200000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 126,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1.0000000000000568,
+          52.011000000000081
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 126,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "3",
+        "Wing" : "66",
+        "Group_" : "357",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-51",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Raydon",
+        "County" : "Suffolk",
+        "Lat" : 52.011000000000003,
+        "Long" : 1,
+        "Start" : -823305600000,
+        "End" : -817948800000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 127,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -2.6377779999999689,
+          52.690278000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 127,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "VIII Air Service Command",
+        "Wing" : "3",
+        "Group_" : "198",
+        "Type1" : "FG",
+        "Type2" : "Training",
+        "Aircraft1" : "P-47",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Atcham",
+        "County" : "Shropshire",
+        "Lat" : 52.690277999999999,
+        "Long" : -2.637778,
+        "Start" : -823219200000,
+        "End" : -786240000000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 128,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.8954930000000445,
+          51.961939000000029
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 128,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "VIII Fighter Command",
+        "Wing" : "3",
+        "Group_" : "354",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-51",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Boxted",
+        "County" : "Essex",
+        "Lat" : 51.961939000000001,
+        "Long" : 0.89549299999999998,
+        "Start" : -836438400000,
+        "End" : -812678400000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 129,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -1.2822219999999334,
+          51.378611000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 129,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "VIII Fighter Command",
+        "Wing" : "3",
+        "Group_" : "354",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-51",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Greenham Common",
+        "County" : "Berkshire",
+        "Lat" : 51.378610999999999,
+        "Long" : -1.282222,
+        "Start" : -825552000000,
+        "End" : -824774400000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 130,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.3155559999999582,
+          53.677778000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 130,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "VIII Fighter Command",
+        "Wing" : "6",
+        "Group_" : "1",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-38",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Goxhill",
+        "County" : "Lincolnshire",
+        "Lat" : 53.677778000000004,
+        "Long" : -0.315556,
+        "Start" : -869788800000,
+        "End" : -863308800000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 131,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -1.7805559999999332,
+          50.879444000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 131,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "VIII Fighter Command",
+        "Wing" : "6",
+        "Group_" : "1",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-38",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Ibsley",
+        "County" : "Hampshire",
+        "Lat" : 50.879443999999999,
+        "Long" : -1.780556,
+        "Start" : -863049600000,
+        "End" : -856310400000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 132,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.57805599999994683,
+          53.461389000000054
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 132,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "VIII Fighter Command",
+        "Wing" : "6",
+        "Group_" : "1",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-38",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Kirton in Lindsey",
+        "County" : "Lincolnshire",
+        "Lat" : 53.461388999999997,
+        "Long" : -0.57805600000000001,
+        "Start" : -869788800000,
+        "End" : -863049600000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 133,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -2.6377779999999689,
+          52.690278000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 133,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "VIII Fighter Command",
+        "Wing" : "6",
+        "Group_" : "14",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-38",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Atcham",
+        "County" : "Shropshire",
+        "Lat" : 52.690277999999999,
+        "Long" : -2.637778,
+        "Start" : -863827200000,
+        "End" : -856742400000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 134,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -2.6377779999999689,
+          52.690278000000035
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 134,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "VIII Fighter Command",
+        "Wing" : "6",
+        "Group_" : "31",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "Spitfire",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Atcham",
+        "County" : "Shropshire",
+        "Lat" : 52.690277999999999,
+        "Long" : -2.637778,
+        "Start" : -869702400000,
+        "End" : -865296000000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 135,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.014636000000052718,
+          51.306824000000063
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 135,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "VIII Fighter Command",
+        "Wing" : "6",
+        "Group_" : "31",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "Spitfire",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Biggin Hill",
+        "County" : "London",
+        "Lat" : 51.306823999999999,
+        "Long" : 0.014636,
+        "Start" : -865296000000,
+        "End" : -863308800000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 136,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.094999999999970441,
+          51.303611000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 136,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "VIII Fighter Command",
+        "Wing" : "6",
+        "Group_" : "31",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "Spitfire",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Kenley",
+        "County" : "Surrey",
+        "Lat" : 51.303610999999997,
+        "Long" : -0.095000000000000001,
+        "Start" : -865296000000,
+        "End" : -863222400000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 137,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -7.1594439999999508,
+          55.043056000000036
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 137,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "VIII Fighter Command",
+        "Wing" : "6",
+        "Group_" : "52",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "Spitfire",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Eglinton",
+        "County" : "Northern Ireland",
+        "Lat" : 55.043056,
+        "Long" : -7.1594439999999997,
+        "Start" : -866937600000,
+        "End" : -863136000000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 138,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.3155559999999582,
+          53.677778000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 138,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "VIII Fighter Command",
+        "Wing" : "6",
+        "Group_" : "52",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "Spitfire",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Goxhill",
+        "County" : "Lincolnshire",
+        "Lat" : 53.677778000000004,
+        "Long" : -0.315556,
+        "Start" : -863136000000,
+        "End" : -857606400000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 139,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.3155559999999582,
+          53.677778000000046
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 139,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "VIII Fighter Command",
+        "Wing" : "66",
+        "Group_" : "358",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-47",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Goxhill",
+        "County" : "Lincolnshire",
+        "Lat" : 53.677778000000004,
+        "Long" : -0.315556,
+        "Start" : -826848000000,
+        "End" : -823392000000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 140,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1.5500000000000682,
+          52.216667000000029
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 140,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "VIII Fighter Command",
+        "Wing" : "66",
+        "Group_" : "358",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-47",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Leiston",
+        "County" : "Suffolk",
+        "Lat" : 52.216667000000001,
+        "Long" : 1.55,
+        "Start" : -823392000000,
+        "End" : -818035200000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 141,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          0.79200000000003001,
+          51.940000000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 141,
+        "Airforce" : 8,
+        "Command" : "Fighter",
+        "Division" : "VIII Fighter Command",
+        "Wing" : "N/A",
+        "Group_" : "362",
+        "Type1" : "FG",
+        "Type2" : null,
+        "Aircraft1" : "P-47",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Wormingford",
+        "County" : "Essex",
+        "Lat" : 51.939999999999998,
+        "Long" : 0.79200000000000004,
+        "Start" : -823305600000,
+        "End" : -811641600000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 142,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -1.0852779999999598,
+          51.674444000000051
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 142,
+        "Airforce" : 8,
+        "Command" : "Reconnaisance",
+        "Division" : "VIII Reconnaisance Command",
+        "Wing" : "Recon",
+        "Group_" : "7",
+        "Type1" : "13 PS",
+        "Type2" : "Recon",
+        "Aircraft1" : "P-38",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Chalgrove",
+        "County" : "Oxfordshire",
+        "Lat" : 51.674444000000001,
+        "Long" : -1.085278,
+        "Start" : -783820800000,
+        "End" : -775872000000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 143,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -1.4369439999999258,
+          51.603611000000058
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 143,
+        "Airforce" : 8,
+        "Command" : "Reconnaisance",
+        "Division" : "VIII Reconnaisance Command",
+        "Wing" : "Recon",
+        "Group_" : "7",
+        "Type1" : "13 PS",
+        "Type2" : "Recon",
+        "Aircraft1" : "P-38",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Grove",
+        "County" : "Oxforshire",
+        "Lat" : 51.603611000000001,
+        "Long" : -1.436944,
+        "Start" : -764294400000,
+        "End" : -760752000000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 144,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -1.1629999999999541,
+          51.66900000000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 144,
+        "Airforce" : 8,
+        "Command" : "Reconnaisance",
+        "Division" : "VIII Reconnaisance Command",
+        "Wing" : "Recon",
+        "Group_" : "7",
+        "Type1" : "13 PS",
+        "Type2" : "Recon",
+        "Aircraft1" : "P-38",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Mount Farm",
+        "County" : "Oxfordshire",
+        "Lat" : 51.668999999999997,
+        "Long" : -1.163,
+        "Start" : -846979200000,
+        "End" : -783820800000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 145,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -0.60583699999995133,
+          52.231111000000055
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 145,
+        "Airforce" : 8,
+        "Command" : "Reconnaisance",
+        "Division" : "VIII Reconnaisance Command",
+        "Wing" : "Recon",
+        "Group_" : "7",
+        "Type1" : "13 PS",
+        "Type2" : "Recon",
+        "Aircraft1" : "P-38",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Podington",
+        "County" : "Bedfordshire",
+        "Lat" : 52.231110999999999,
+        "Long" : -0.60583699999999996,
+        "Start" : -883612800000,
+        "End" : -846979200000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 146,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          1.1475000000000364,
+          52.705765000000042
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 146,
+        "Airforce" : 8,
+        "Command" : "Reconnaisance",
+        "Division" : "VIII Reconnaisance Command",
+        "Wing" : "Recon",
+        "Group_" : "7",
+        "Type1" : "22 PS",
+        "Type2" : "Recon",
+        "Aircraft1" : "F-5",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Attlebridge",
+        "County" : "Norfolk",
+        "Lat" : 52.705765,
+        "Long" : 1.1475,
+        "Start" : -816739200000,
+        "End" : -814924800000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 147,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -1.1629999999999541,
+          51.66900000000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 147,
+        "Airforce" : 8,
+        "Command" : "Reconnaisance",
+        "Division" : "VIII Reconnaisance Command",
+        "Wing" : "Recon",
+        "Group_" : "7",
+        "Type1" : "22 PS",
+        "Type2" : "Recon",
+        "Aircraft1" : "F-5",
+        "Aircraft2" : null,
+        "Aircraft3" : null,
+        "Aircraft4" : null,
+        "Airbase" : "Mount Farm",
+        "County" : "Oxfordshire",
+        "Lat" : 51.668999999999997,
+        "Long" : -1.163,
+        "Start" : -838425600000,
+        "End" : -770601600000
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 148,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -1.1629999999999541,
+          51.66900000000004
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 148,
+        "Airforce" : 8,
+        "Command" : "Reconnaisance",
+        "Division" : "VIII Reconnaisance Command",
+        "Wing" : "Recon",
+        "Group_" : "7",
+        "Type1" : "PG",
+        "Type2" : "Recon",
+        "Aircraft1" : "F-5",
+        "Aircraft2" : "Spitfire",
+        "Aircraft3" : "P-51",
+        "Aircraft4" : null,
+        "Airbase" : "Mount Farm",
+        "County" : "Oxfordshire",
+        "Lat" : 51.668999999999997,
+        "Long" : -1.163,
+        "Start" : -835920000000,
+        "End" : -781660800000
+      }
+    }
+  ]
+}
